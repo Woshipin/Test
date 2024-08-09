@@ -1,0 +1,30 @@
+product_category,product_type,total_order
+Bakery,Biscotti,5788
+Bakery,Pastry,6961
+Bakery,Scone,10465
+Branded,Clothing,221
+Branded,Housewares,555
+Coffee,Barista Espresso,24943
+Coffee,Drip coffee,12891
+Coffee,Gourmet brewed coffee,25973
+Coffee,Organic brewed coffee,13012
+Coffee,Premium brewed coffee,12431
+Coffee beans,Espresso Beans,319
+Coffee beans,Gourmet Beans,366
+Coffee beans,Green beans,134
+Coffee beans,House blend Beans,183
+Coffee beans,Organic Beans,420
+Coffee beans,Premium Beans,406
+Drinking Chocolate,Hot chocolate,17457
+Flavours,Regular syrup,7606
+Flavours,Sugar free syrup,2905
+Loose Tea,Black tea,303
+Loose Tea,Chai tea,443
+Loose Tea,Green tea,159
+Loose Tea,Herbal tea,305
+Packaged Chocolate,Drinking Chocolate,266
+Packaged Chocolate,Organic Chocolate,221
+Tea,Brewed Black tea,17462
+Tea,Brewed Chai tea,26250
+Tea,Brewed Green tea,8697
+Tea,Brewed herbal tea,17328
